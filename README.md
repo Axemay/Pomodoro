@@ -1,7 +1,9 @@
 <h1>Pomodoro</h1>
 Projeto de estudo desenvolvido no dia 28 do curso de Python da Dr. Angela Yu.<br><br>
 
-![image](https://user-images.githubusercontent.com/101254285/193415358-a7405aec-087a-4b59-a340-b918c53a0ebf.png)
+![image](https://user-images.githubusercontent.com/101254285/193416351-2d2e4e48-b733-4c69-9387-b8b97bd81335.png)
+![image](https://user-images.githubusercontent.com/101254285/193416366-35731399-82c5-4b42-92e3-9ae64971b20e.png)
+
 
 <h2>Features adicionais</h2>
 <ul>
